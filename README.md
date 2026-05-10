@@ -1,3 +1,5 @@
+该仓库已迁移至 https://github.com/SeerAPI/seerapi
+
 # seerapi-models
 
 SeerAPI 数据模型/ORM 定义，用于前后端开发。
